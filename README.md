@@ -10,3 +10,23 @@ This project is a simple text-based adventure game where players navigate throug
  - Win/Loss Conditions: The game includes conditions for winning and losing, providing feedback to the player based on their actions.
  - Replayability: Players can play the game multiple times, with the option to restart after the game ends.
  - Randomization: Random elements are integrated into the game to introduce variability and unpredictability, ensuring a unique experience with each playthrough.
+
+# Usage
+- Clone the repository to your local machine.
+- Run python main.py to start the game.
+- Follow the prompts to navigate through the scenarios and make choices.
+- Enjoy the adventure and see if you can win!
+
+# Future Improvements
+- Experiment your own code, change the main code to make it even better, even more suitable.
+- Add more scenarios into the game, more randomness.
+- Add animations, Enhance the UI
+- Implement new ideas like inventory where the user can store items!
+- There is alot you can do to make this an even better game! I am counting on you.
+
+ # Contributing
+ Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes. 
+
+ # Contact me
+ - Email: omarkhaled492008@gmail.com / notapexlmao@gmail.com 
+ - Discord: miner3074
